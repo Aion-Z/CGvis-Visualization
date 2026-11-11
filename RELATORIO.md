@@ -41,7 +41,7 @@
 
 <mark>`<preencher abaixo>`</mark>
 
-![Visualização resultante](imagem-da-visualizacao.png)
+![Visualização resultante](conectomas_comunidades.png)
 
 ## Descrição da visualização
 
