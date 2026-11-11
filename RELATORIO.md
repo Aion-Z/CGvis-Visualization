@@ -6,8 +6,8 @@
 
 ## Identificação
 
-- **Nome**: <mark>`<preencher>`</mark>
-- **Cartão UFRGS:** <mark>`<preencher>`</mark>
+- **Nome**: <mark>`Alisson Oliveira de Siqueira`</mark>
+- **Cartão UFRGS:** <mark>`577351`</mark>
 
 ## Dados utilizados
 
@@ -17,8 +17,8 @@
 > - Se houver mais de um conjunto de dados, liste todos separadamente.
 > - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
 
-1. **Dataset 1**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
+1. **Dataset 1**: <mark>`Drosophila Conectome`</mark>
+    * **Descrição curta**: <mark>`Conectoma da Mosca-da-Fruta (Drosófila), onde cada nodo é um neurônio e cada conexão uma sinapse`</mark>
 2. **Dataset 2**: <mark>`<link>`</mark>
     * **Descrição curta**: <mark>`<preencher>`</mark>
 3. ...
