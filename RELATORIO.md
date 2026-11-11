@@ -18,9 +18,9 @@
 > - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
 
 1. **Dataset 1**: <mark>`Drosophila Conectome`</mark>
-    * **Descrição curta**: <mark>`Conectoma da Mosca-da-Fruta (Drosófila), onde cada nodo é um neurônio e cada conexão uma sinapse`</mark>
-2. **Dataset 2**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
+    * **Descrição curta**: <mark>`Conectoma da Mosca-da-Fruta (Drosófila) macho, onde cada nodo é um neurônio e cada conexão uma sinapse`</mark>
+2. **Dataset 2**: <mark>`FlyWire Conectome`</mark>
+    * **Descrição curta**: <mark>`Conectoma da Mosca-da-Fruta fêmea, cada nodo é um neurônio e cada conexão uma sinapse`</mark>
 3. ...
 
 ## Código-fonte da visualização
